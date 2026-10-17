@@ -1,0 +1,48 @@
+{
+  "toolbar": {
+    "title": "Plataforma de Monitoreo Meteorológico Open-Meteo",
+    "home": "Inicio",
+    "new-weather-report": "Nuevo Reporte Meteorológico"
+  },
+  "home": {
+    "title": "Inicio",
+    "content": "Monitoreo de Estaciones Meteorológicas."
+  },
+  "weather-reports": {
+    "title": "Mis Reportes Meteorológicos",
+    "empty": "Vacío"
+  },
+  "page-not-found": {
+    "title": "Página no encontrada",
+    "content": "La ruta {route} no fue encontrada.",
+    "go-home": "Ir a Inicio"
+  },
+  "weather-report": {
+    "country": "País",
+    "climate-zone": "Zona climática",
+    "temperature": "Temperatura",
+    "registered-at": "Registrado el",
+    "wind-speed": "Velocidad del viento",
+    "relative-humidity": "Humedad relativa",
+    "observed-at": "Observado el"
+  },
+  "climate-zones": {
+    "coastal": "Costera", "highland": "Altoandina", "tropical": "Tropical",
+    "desert": "Desértica", "temperate": "Templada", "urban": "Urbana"
+  },
+  "weather-report-form": {
+    "title": "Nuevo Reporte Meteorológico",
+    "subtitle": "Agrega datos del clima actual a tu estación",
+    "climate-zone": "Zona climática",
+    "select-climate-zone": "Selecciona una zona climática",
+    "weather-station": "Estación meteorológica",
+    "select-weather-station": "Selecciona una estación",
+    "last-temperature": "última temperatura",
+    "invalid-conditions": "No se puede registrar el reporte: la diferencia de temperatura debe ser de al menos 2 °C y la velocidad del viento como máximo 60 km/h.",
+    "create": "Crear",
+    "cancel": "Cancelar",
+    "created": "Reporte meteorológico registrado",
+    "create-error": "No se pudo registrar el reporte meteorológico",
+    "weather-error": "No se pudo obtener el clima actual"
+  }
+}

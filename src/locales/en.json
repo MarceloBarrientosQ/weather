@@ -1,0 +1,48 @@
+{
+  "toolbar": {
+    "title": "Open-Meteo Weather Monitoring Platform",
+    "home": "Home",
+    "new-weather-report": "New Weather Report"
+  },
+  "home": {
+    "title": "Home",
+    "content": "Weather Station Monitoring."
+  },
+  "weather-reports": {
+    "title": "My Weather Reports",
+    "empty": "Empty"
+  },
+  "page-not-found": {
+    "title": "Page Not Found",
+    "content": "The route {route} was not found.",
+    "go-home": "Go to Home"
+  },
+  "weather-report": {
+    "country": "Country",
+    "climate-zone": "Climate zone",
+    "temperature": "Temperature",
+    "registered-at": "Registered at",
+    "wind-speed": "Wind speed",
+    "relative-humidity": "Relative humidity",
+    "observed-at": "Observed at"
+  },
+  "climate-zones": {
+    "coastal": "Coastal", "highland": "Highland", "tropical": "Tropical",
+    "desert": "Desert", "temperate": "Temperate", "urban": "Urban"
+  },
+  "weather-report-form": {
+    "title": "New Weather Report",
+    "subtitle": "Add Current Weather Data to Your Station",
+    "climate-zone": "Climate zone",
+    "select-climate-zone": "Select a climate zone",
+    "weather-station": "Weather station",
+    "select-weather-station": "Select a weather station",
+    "last-temperature": "last temperature",
+    "invalid-conditions": "The report cannot be registered: the temperature difference must be at least 2 °C and the wind speed at most 60 km/h.",
+    "create": "Create",
+    "cancel": "Cancel",
+    "created": "Weather report registered",
+    "create-error": "The weather report could not be registered",
+    "weather-error": "Current weather could not be retrieved"
+  }
+}
